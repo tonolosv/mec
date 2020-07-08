@@ -33,7 +33,7 @@ section .section-title {
 
 #team .card {
     border: none;
-    background: #ffffff;
+    background: #fff;
 }
 
 .image-flip:hover .backside,
@@ -133,3 +133,5 @@ section .section-title {
     font-size: 35px;
     color: black;
 }
+
+

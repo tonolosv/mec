@@ -135,3 +135,16 @@ section .section-title {
 }
 
 
+
+#banner {
+      max-width: 35vw;
+}
+
+#img {
+      max-width: 45vw;
+}
+
+#header {
+ font-size: 2em;
+    color: red;
+}
